@@ -1,0 +1,134 @@
+#PANEL1
+#DIRECTORY
+#MAINDIR#D:\Magliano_Sabina\Dati
+#ANAGRAFE#\Catasto\Anagrafe.txt
+#ANAGRAFEINFO#\Catasto\AnagrafeInfo.txt
+#TARES#\Catasto\tares.txt
+#IMU#\Catasto\Imu.txt
+#TERRITORIO#\Territorio\
+#QUNIONE#\Catasto\QU\E812_1106QU.CXF
+#DIRCXF#\Catasto\CXF\
+#FABBRICATIDATI#\Catasto\fabbricati.txt
+#TERRENIDATI#\Catasto\terreni.txt
+#TERRENIPROPRIETARI#\Catasto\SoggettiTerreni.txt
+#TERRENIPOSSESSI#\Catasto\PossessiTerreni.txt
+#FABBRICATIPROPRIETARI#\Catasto\SoggettiFabbricati.txt
+#FABBRICATIPOSSESSI#\Catasto\PossessiFabbricati.txt
+#STRADE#\DisegniV\Strade.macmap
+#CIVICI#\DisegniV\Civici.macmap
+#TOPONOMASTICA#\DisegniV\Toponomastica.macmap
+#ENDDIRECTORY
+#TITOLO
+C= E812 
+T= Magliano Sabina
+#ENDTITOLO
+#LABEL
+x= 37
+y= 1
+s= 10
+T= Cartografia
+#ENDLABEL
+#BUTTON
+x= 18
+y= 20
+h= 18
+w= 110
+T= CTR 5.000
+M= #R2##\CTR5000\
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 42
+h= 18
+w= 110
+T= PRG
+M= #R2##\DisegniR\PRG\
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 64
+h= 18
+w= 110
+T= PTP
+M= #R2##\DisegniR\PTP\
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 86
+h= 18
+w= 110
+T= Sistemi e Ambiti
+M= #R2##\DisegniR\TavolaA\
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 108
+h= 18
+w= 110
+T= Beni paesagistici
+M= #R2##\DisegniR\TavolaB\
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 130
+h= 18
+w= 110
+T= Beni Nat. Culturali
+M= #R2##\DisegniR\TavolaC\
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 152
+h= 18
+w= 110
+T= PTP Paesagistico
+M= #R2##\DisegniR\TavolaD\
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 174
+h= 18
+w= 110
+T= Commerciali
+M= #R2##\DisegniR\Commerciali\
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 196
+h= 18
+w= 110
+T= Vincolo Idro
+M= #V1##\DisegniV\Vincolo_Idro.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 218
+h= 18
+w= 110
+T= Idrografia
+M= #V1##\DisegniV\IDROGRAFIA.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 240
+h= 18
+w= 110
+T= PS1
+M= #V1##\DisegniV\PS1.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 262
+h= 18
+w= 110
+T= Usi Civici
+M= #V1##\DisegniV\usi_civici.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 284
+h= 18
+w= 110
+T= Acustica
+M= #V1##\DisegniV\carta_suono.macmap
+#ENDBUTTON

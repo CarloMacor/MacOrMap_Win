@@ -1,0 +1,590 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{D16F098E-E9BD-4309-9AD0-B8681AF02F04}</ProjectGuid>
+			<ProjectVersion>13.4</ProjectVersion>
+			<FrameworkType>VCL</FrameworkType>
+			<MainSource>MacOrMap.dpr</MainSource>
+			<Base>True</Base>
+			<Config Condition="'$(Config)'==''">Release</Config>
+			<Platform Condition="'$(Platform)'==''">Win32</Platform>
+			<TargetedPlatforms>1</TargetedPlatforms>
+			<AppType>Application</AppType>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Base' or '$(Base)'!=''">
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="('$(Platform)'=='Win64' and '$(Base)'=='true') or '$(Base_Win64)'!=''">
+			<Base_Win64>true</Base_Win64>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="('$(Platform)'=='Win32' and '$(Base)'=='true') or '$(Base_Win32)'!=''">
+			<Base_Win32>true</Base_Win32>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Debug' or '$(Cfg_1)'!=''">
+			<Cfg_1>true</Cfg_1>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="('$(Platform)'=='Win32' and '$(Cfg_1)'=='true') or '$(Cfg_1_Win32)'!=''">
+			<Cfg_1_Win32>true</Cfg_1_Win32>
+			<CfgParent>Cfg_1</CfgParent>
+			<Cfg_1>true</Cfg_1>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Config)'=='Release' or '$(Cfg_2)'!=''">
+			<Cfg_2>true</Cfg_2>
+			<CfgParent>Base</CfgParent>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="('$(Platform)'=='Win32' and '$(Cfg_2)'=='true') or '$(Cfg_2_Win32)'!=''">
+			<Cfg_2_Win32>true</Cfg_2_Win32>
+			<CfgParent>Cfg_2</CfgParent>
+			<Cfg_2>true</Cfg_2>
+			<Base>true</Base>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base)'!=''">
+			<DCC_Namespace>System;Xml;Data;Datasnap;Web;Soap;Vcl;Vcl.Imaging;Vcl.Touch;Vcl.Samples;Vcl.Shell;$(DCC_Namespace)</DCC_Namespace>
+			<Icon_MainIcon>$(BDS)\bin\delphi_PROJECTICON.ico</Icon_MainIcon>
+			<DCC_UsePackage>bindcompfmx;fmx;rtl;dbrtl;IndySystem;DbxClientDriver;bindcomp;inetdb;DBXInterBaseDriver;DataSnapCommon;DataSnapClient;DataSnapServer;DataSnapProviderClient;xmlrtl;ibxpress;DbxCommonDriver;IndyProtocols;DBXMySQLDriver;dbxcds;soaprtl;bindengine;DBXOracleDriver;dsnap;DBXInformixDriver;IndyCore;fmxase;CloudService;DBXFirebirdDriver;inet;fmxobj;inetdbxpress;DBXSybaseASADriver;fmxdae;dbexpress;DataSnapIndy10ServerTransport;IPIndyImpl;$(DCC_UsePackage)</DCC_UsePackage>
+			<DCC_DcuOutput>.\$(Platform)\$(Config)</DCC_DcuOutput>
+			<DCC_ExeOutput>.\$(Platform)\$(Config)</DCC_ExeOutput>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base_Win64)'!=''">
+			<DCC_UsePackage>TeeDB;vclib;Tee;DBXOdbcDriver;DBXSybaseASEDriver;vclimg;vclactnband;TeeUI;vcldb;bindcompvcl;vcldsnap;vclie;vcltouch;DBXDb2Driver;websnap;VclSmp;vcl;DataSnapConnectors;DBXMSSQLDriver;dsnapcon;vclx;webdsnap;adortl;$(DCC_UsePackage)</DCC_UsePackage>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Base_Win32)'!=''">
+			<DCC_UsePackage>office2K;vcldbx;frx16;TeeDB;vclib;inetdbbde;Tee;DBXOdbcDriver;svnui;DBXSybaseASEDriver;vclimg;intrawebdb_120_160;fmi;frxDB16;fs16;vclactnband;FMXTee;TeeUI;vcldb;bindcompvcl;vcldsnap;vclie;tmsxlsdxe2;vcltouch;Intraweb_120_160;DBXDb2Driver;websnap;vclribbon;frxe16;VclSmp;fsDB16;vcl;DataSnapConnectors;DBXMSSQLDriver;CodeSiteExpressPkg;FmxTeeUI;dsnapcon;tmsexdxe2;tmsdxe2;vclx;tmswizdxe2;webdsnap;svn;bdertl;adortl;$(DCC_UsePackage)</DCC_UsePackage>
+			<VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+			<DCC_Namespace>Winapi;System.Win;Data.Win;Datasnap.Win;Web.Win;Soap.Win;Xml.Win;Bde;$(DCC_Namespace)</DCC_Namespace>
+			<VerInfo_Locale>1033</VerInfo_Locale>
+			<Manifest_File>$(BDS)\bin\default_app.manifest</Manifest_File>
+			<VerInfo_Keys>CompanyName=;FileDescription=;FileVersion=1.0.0.0;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProductName=;ProductVersion=1.0.0.0;Comments=</VerInfo_Keys>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1)'!=''">
+			<DCC_Define>DEBUG;$(DCC_Define)</DCC_Define>
+			<DCC_Optimize>false</DCC_Optimize>
+			<DCC_GenerateStackFrames>true</DCC_GenerateStackFrames>
+			<DCC_DebugInfoInExe>true</DCC_DebugInfoInExe>
+			<DCC_RemoteDebug>true</DCC_RemoteDebug>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_1_Win32)'!=''">
+			<DCC_RemoteDebug>false</DCC_RemoteDebug>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2)'!=''">
+			<DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
+			<DCC_Define>RELEASE;$(DCC_Define)</DCC_Define>
+			<DCC_SymbolReferenceInfo>0</DCC_SymbolReferenceInfo>
+			<DCC_DebugInformation>false</DCC_DebugInformation>
+		</PropertyGroup>
+		<PropertyGroup Condition="'$(Cfg_2_Win32)'!=''">
+			<DCC_ExeOutput>C:\Magliano_Sabina\Release\</DCC_ExeOutput>
+			<VerInfo_Keys>CompanyName=Carlo Macor;FileDescription=;FileVersion=1.0.0.0;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProductName=;ProductVersion=1.0.0.0;Comments=</VerInfo_Keys>
+			<Icon_MainIcon>MacOrMap_Icon1.ico</Icon_MainIcon>
+			<VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+			<VerInfo_Locale>1033</VerInfo_Locale>
+		</PropertyGroup>
+		<ItemGroup>
+			<DelphiCompile Include="$(MainSource)">
+				<MainSource>MainSource</MainSource>
+			</DelphiCompile>
+			<DCCReference Include="Main.pas">
+				<Form>MainForm</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Vector\DisegnoV.pas"/>
+			<DCCReference Include="Vector\Piano.pas"/>
+			<DCCReference Include="Raster\DisegnoR.pas"/>
+			<DCCReference Include="Raster\uRaster.pas"/>
+			<DCCReference Include="Vector\Vettoriale.pas"/>
+			<DCCReference Include="Vector\Vertice.pas"/>
+			<DCCReference Include="Vector\Testo.pas"/>
+			<DCCReference Include="Vector\Simbolo.pas"/>
+			<DCCReference Include="Vector\Punto.pas"/>
+			<DCCReference Include="Vector\Polylinea.pas"/>
+			<DCCReference Include="Vector\Cerchio.pas"/>
+			<DCCReference Include="Vector\Arco.pas"/>
+			<DCCReference Include="Vector\DefSimbolo.pas"/>
+			<DCCReference Include="Vector\uVector.pas"/>
+			<DCCReference Include="Raster\DisegnoGR.pas"/>
+			<DCCReference Include="Dlg\Dlg_SpostaTerritorio.pas">
+				<Form>Form_SpostaTerritorio</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_Fabbricato.pas">
+				<Form>Dlg_InfoFabbricato</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg\Dlg_Griglia.pas">
+				<Form>Form_Griglia</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg\Dlg_Righello.pas">
+				<Form>Form_Righello</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg\Dlg_Crocicchi.pas">
+				<Form>Form_Crocicchi</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Utilita\Costanti.pas"/>
+			<DCCReference Include="Utilita\Funzioni.pas"/>
+			<DCCReference Include="Main\InitApply.pas"/>
+			<DCCReference Include="Main\Varbase.pas"/>
+			<DCCReference Include="Utilita\Utility1.pas"/>
+			<DCCReference Include="Utilita\Proiezioni.pas"/>
+			<DCCReference Include="Main\Interfaccia.pas"/>
+			<DCCReference Include="Main\Progetto.pas"/>
+			<DCCReference Include="Utilita\UViste.pas"/>
+			<DCCReference Include="Vector\CatastoV.pas"/>
+			<DCCReference Include="Tributi\Anagrafe.pas"/>
+			<DCCReference Include="Tributi\Residente.pas"/>
+			<DCCReference Include="Tributi\Famiglia.pas"/>
+			<DCCReference Include="Tributi\FabCatDati.pas"/>
+			<DCCReference Include="Tributi\ImmobiliDati.pas"/>
+			<DCCReference Include="Dlg\Dlg_Testo.pas">
+				<Form>Form_Text</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg\Dlg_Info.pas">
+				<Form>Form_Info</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Vector\ListaDefSimboli.pas"/>
+			<DCCReference Include="Dlg\Dlg_Simbolo.pas">
+				<Form>Form_Simbolo</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Tributi\TerCatDati.pas"/>
+			<DCCReference Include="Dlg_Catasto\Dlg_Terreno.pas">
+				<Form>Dlg_InfoTerreno</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_FotoFabbricato.pas">
+				<Form>Form_FotoEdif</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Tributi\Proprietario.pas"/>
+			<DCCReference Include="Tributi\Possesso.pas"/>
+			<DCCReference Include="Tributi\Soggetto.pas"/>
+			<DCCReference Include="Dlg_Catasto\Dlg_Soggetti.pas">
+				<Form>Form_Soggetti</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Tributi\Tares.pas"/>
+			<DCCReference Include="Dlg_Catasto\Dlg_Tares.pas">
+				<Form>Form_Tares</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_TaresSingola.pas">
+				<Form>Form_TaresSingola</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_FabbricatoSingolo.pas">
+				<Form>Form_FabbricatoSingolo</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_possessiTutti.pas">
+				<Form>Form_PossessiTutti</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_possessoPrimaCasa.pas">
+				<Form>Form_PossessoPrimaCasa</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_possessiImmobile.pas">
+				<Form>Form_PossessiImmobile</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Utilita\FunzioniconListe.pas"/>
+			<DCCReference Include="Dlg_Catasto\Dlg_TerrenoSingolo.pas">
+				<Form>Form_TerrenoSingolo</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_TrovaFoglioParticella.pas">
+				<Form>Form_TrovaFoglioParticella</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_ImportTracciato.pas">
+				<Form>Form_Tracciato</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_Imu.pas">
+				<Form>Form_Imu</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Tributi\Imu.pas"/>
+			<DCCReference Include="Dlg_Catasto\dlgAnagrafe.pas">
+				<Form>FormAnagrafe</Form>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\dlgAnagrafeSingola.pas">
+				<Form>Form_AnagrafeSingola</Form>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\Dlg_ImuSingola.pas">
+				<Form>Form_Imu_Singola</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg\Dlg_Raster.pas">
+				<Form>Form_GestRaster</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg\Dlg_Vector.pas">
+				<Form>Form_GestVettoriale</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\dlg_InfoAnagrafe.pas">
+				<Form>Form_InfoAnagrafe</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Vector\Civico.pas"/>
+			<DCCReference Include="Dlg\Dlg_Civico.pas">
+				<Form>Form_txtCivico</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\dlg_EditFgPartSub_Anagrafe.pas">
+				<Form>Form_EditFgAnagrafe</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg\Dlg_TestCivicoStrade.pas">
+				<Form>Form_TestInfo</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\dlg_EditIndirizzo_Anagrafe.pas">
+				<Form>Form_editIndirizzoAnagrafe</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg\Dlg_EditTesto.pas">
+				<Form>Form_editTesto</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg_Catasto\dlgAnagrafeEdificio.pas">
+				<Form>Form_anagEdificio</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Concessioni\SoggettoConcessione.pas"/>
+			<DCCReference Include="Concessioni\ContrattoConcessione.pas"/>
+			<DCCReference Include="Concessioni\LeConcessioni.pas"/>
+			<DCCReference Include="Concessioni\dlg_soggettiConcessioni.pas">
+				<Form>Form_sogConc</Form>
+			</DCCReference>
+			<DCCReference Include="Concessioni\dlg_contrattiConcessioni.pas">
+				<Form>Form_contrattiConcessioni</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Concessioni\dlg_contrattoConcessione.pas">
+				<Form>Form_contrattoConcessione</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Concessioni\PartConc.pas"/>
+			<DCCReference Include="Concessioni\dlg_editNomeConcessionario.pas">
+				<Form>Form_editNomeConcessionario</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Concessioni\dlg_particellaConcessione.pas">
+				<Form>Form_editPartConc</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Vector\ConcessioniV.pas"/>
+			<DCCReference Include="Dlg\Dlg_dist.pas">
+				<Form>Form_Infodist</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<DCCReference Include="Dlg\Dlg_stampa.pas">
+				<Form>Form_Stampa</Form>
+				<FormType>dfm</FormType>
+			</DCCReference>
+			<RcItem Include="Immagini\Icon_Catasto\CasaVerde.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_Casaverde</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\ici1.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_ici1</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\ici2.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_ici2</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\pdfIcona.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_pdficon</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Pianta.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_pianta</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Proprietario.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_proprietario</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Tarsu1.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_Tarsu1</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Tarsu2.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_Tarsu2</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\PiantaRid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_pianta_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\E_C2.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_C2</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\E_C6.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_C6</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Tarsu_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_Tarsu_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Proprietario_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_prop_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\documento_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_documento_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\pdfIcona_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_pdfrid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\family.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_Family</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\key.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_key</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\key_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_key_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Map.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_map</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Map_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_map_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\dust.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_dust</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\dust_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_dust_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\casa1.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_casa1</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\casa1_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_casa1_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Ici.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_Ici</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Ici_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_Ici_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\family_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_Fam_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\documenti_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_documenti_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Mappe.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_mappe_rid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Zoom\Light.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_light</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Interface\Editabile.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_editabile</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Snap\SnapFine.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_snapfine</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\Map_ultrarid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_map_ultrarid</ResourceId>
+			</RcItem>
+			<RcItem Include="Immagini\Icon_Catasto\familymult_rid.bmp">
+				<ResourceType>BITMAP</ResourceType>
+				<ResourceId>Bit_FamMult_rid</ResourceId>
+			</RcItem>
+			<BuildConfiguration Include="Release">
+				<Key>Cfg_2</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Base">
+				<Key>Base</Key>
+			</BuildConfiguration>
+			<BuildConfiguration Include="Debug">
+				<Key>Cfg_1</Key>
+				<CfgParent>Base</CfgParent>
+			</BuildConfiguration>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Delphi.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Delphi.Personality>
+					<Source>
+						<Source Name="MainSource">MacOrMap.dpr</Source>
+					</Source>
+					<VersionInfo>
+						<VersionInfo Name="IncludeVerInfo">False</VersionInfo>
+						<VersionInfo Name="AutoIncBuild">False</VersionInfo>
+						<VersionInfo Name="MajorVer">1</VersionInfo>
+						<VersionInfo Name="MinorVer">0</VersionInfo>
+						<VersionInfo Name="Release">0</VersionInfo>
+						<VersionInfo Name="Build">0</VersionInfo>
+						<VersionInfo Name="Debug">False</VersionInfo>
+						<VersionInfo Name="PreRelease">False</VersionInfo>
+						<VersionInfo Name="Special">False</VersionInfo>
+						<VersionInfo Name="Private">False</VersionInfo>
+						<VersionInfo Name="DLL">False</VersionInfo>
+						<VersionInfo Name="Locale">1040</VersionInfo>
+						<VersionInfo Name="CodePage">1252</VersionInfo>
+					</VersionInfo>
+					<VersionInfoKeys>
+						<VersionInfoKeys Name="CompanyName"/>
+						<VersionInfoKeys Name="FileDescription"/>
+						<VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="InternalName"/>
+						<VersionInfoKeys Name="LegalCopyright"/>
+						<VersionInfoKeys Name="LegalTrademarks"/>
+						<VersionInfoKeys Name="OriginalFilename"/>
+						<VersionInfoKeys Name="ProductName"/>
+						<VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+						<VersionInfoKeys Name="Comments"/>
+					</VersionInfoKeys>
+					<Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\dcloffice2k160.bpl">Microsoft Office 2000 Sample Automation Server Wrapper Components</Excluded_Packages>
+						<Excluded_Packages Name="$(BDSBIN)\dclofficexp160.bpl">Microsoft Office XP Sample Automation Server Wrapper Components</Excluded_Packages>
+					</Excluded_Packages>
+				</Delphi.Personality>
+				<Deployment>
+					<DeployFile Class="ProjectOutput" Configuration="Release" LocalName="Win32\Release\MacOrMap.exe">
+						<Platform Name="Win32"/>
+					</DeployFile>
+					<DeployFile Class="DebugSymbols" Configuration="Release" LocalName="Win32\Release\MacOrMap.rsm">
+						<Platform Name="Win32">
+							<RemoteName>MacOrMap.rsm</RemoteName>
+						</Platform>
+					</DeployFile>
+					<DeployClass Name="ProjectOutput" Required="true">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="DependencyPackage" Required="true">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+							<Extensions>.dylib</Extensions>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+							<Extensions>.bpl</Extensions>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="DependencyModule">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+							<Extensions>.dylib</Extensions>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+							<Extensions>.dll;.bpl</Extensions>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="ProjectOSXInfoPList">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents</RemoteDir>
+							<Operation>1</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="File">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>0</Operation>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="DebugSymbols">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="DependencyFramework">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+							<Extensions>.framework</Extensions>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="AdditionalDebugSymbols">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\MacOS</RemoteDir>
+							<Operation>1</Operation>
+						</Platform>
+						<Platform Name="Win32">
+							<Operation>0</Operation>
+						</Platform>
+					</DeployClass>
+					<DeployClass Name="ProjectOSXResource">
+						<Platform Name="OSX32">
+							<RemoteDir>Contents\Resources</RemoteDir>
+							<Operation>1</Operation>
+						</Platform>
+					</DeployClass>
+					<ProjectRoot Name="$(PROJECTNAME).app" Platform="OSX32"/>
+					<ProjectRoot Name="$(PROJECTNAME)" Platform="Win64"/>
+					<ProjectRoot Name="$(PROJECTNAME)" Platform="Win32"/>
+				</Deployment>
+				<Platforms>
+					<Platform value="Win64">False</Platform>
+					<Platform value="Win32">True</Platform>
+				</Platforms>
+				<ModelSupport>False</ModelSupport>
+			</BorlandProject>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+		<Import Condition="Exists('$(BDS)\Bin\CodeGear.Delphi.Targets')" Project="$(BDS)\Bin\CodeGear.Delphi.Targets"/>
+		<Import Condition="Exists('$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj')" Project="$(APPDATA)\Embarcadero\$(BDSAPPDATABASEDIR)\$(PRODUCTVERSION)\UserTools.proj"/>
+		<Import Condition="Exists('$(MSBuildProjectName).deployproj')" Project="$(MSBuildProjectName).deployproj"/>
+	</Project>

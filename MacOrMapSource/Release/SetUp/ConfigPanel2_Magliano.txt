@@ -1,0 +1,51 @@
+#PANEL2
+#TITOLO
+C= E812 
+T= Magliano Sabina
+#ENDTITOLO
+#LABEL
+x= 38
+y= 5
+s= 10
+T= Toponomastica
+#ENDLABEL
+#BUTTON
+x= 30
+y= 25
+h= 20
+w= 110
+T= Territorio
+M= #MA#
+#ENDBUTTON
+#BUTTON
+x= 30
+y= 50
+h= 20
+w= 110
+T= Strade
+M= #V1##\DisegniV\strade.macmap
+#ENDBUTTON
+#BUTTON
+x= 30
+y= 75
+h= 20
+w= 110
+T= Civici
+M= #V1##\DisegniV\civici.macmap
+#ENDBUTTON
+#BUTTON
+x= 30
+y= 100
+h= 20
+w= 110
+T= Toponomastica
+M= #V1##\DisegniV\toponomastica.macmap
+#ENDBUTTON
+#BUTTON
+x= 30
+y= 100
+h= 20
+w= 110
+T= Stratch
+M= #V1##\DisegniV\Stratch.macmap
+#ENDBUTTON

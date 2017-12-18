@@ -1,0 +1,88 @@
+#PANEL2
+#MODULOTOLFA
+#LABEL
+x= 48
+y= 5
+s= 10
+T= Cartografia
+#ENDLABEL
+#BUTTON
+x= 23
+y= 25
+h= 20
+w= 120
+T= Sistemi e Ambiti
+M= #R2##D:\Tolfa\Dati\DisegniR\TavolaA\
+#ENDBUTTON
+#BUTTON
+x= 23
+y= 50
+h= 20
+w= 120
+T= Beni paesagistici
+M= #R2##D:\Tolfa\Dati\DisegniR\TavolaB\
+#ENDBUTTON
+#BUTTON
+x= 23
+y= 75
+h= 20
+w= 120
+T= Beni Nat. Culturali
+M= #R2##D:\Tolfa\Dati\DisegniR\TavolaC\
+#ENDBUTTON
+#BUTTON
+x= 23
+y= 100
+h= 20
+w= 120
+T= PTP Paesagistico
+M= #R2##D:\Tolfa\Dati\DisegniR\TavolaD\
+#ENDBUTTON
+#BUTTON
+x= 23
+y= 125
+h= 20
+w= 120
+T= PAI
+M= #R2##D:\Tolfa\Dati\DisegniR\PAI\
+#ENDBUTTON
+#BUTTON
+x= 23
+y= 150
+h= 20
+w= 120
+T= CTR 5.000
+M= #R2##D:\Tolfa\Dati\CTR5000\
+#ENDBUTTON
+#BUTTON
+x= 23
+y= 175
+h= 20
+w= 120
+T= P.R.G.
+M= #R2##D:\Tolfa\Dati\DisegniR\PRG\
+#ENDBUTTON
+#BUTTON
+x= 23
+y= 200
+h= 20
+w= 120
+T= Forestale 1
+M= #R2##D:\Tolfa\Dati\DisegniR\Forestale\
+#ENDBUTTON
+#BUTTON
+x= 23
+y= 225
+h= 20
+w= 120
+T= Forestale 2
+M= #R2##D:\Tolfa\Dati\DisegniR\Forestale2\
+#ENDBUTTON
+#BUTTON
+x= 23
+y= 250
+h= 20
+w= 120
+T= PRG S.Severa
+M= #R1##D:\Tolfa\Dati\DisegniR\SantaSevera\SantaSevera.bmp
+#ENDBUTTON

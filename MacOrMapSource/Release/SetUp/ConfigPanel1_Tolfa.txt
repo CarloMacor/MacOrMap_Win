@@ -1,0 +1,120 @@
+#PANEL1
+#DIRECTORY
+#ANAGRAFE#D:\Tolfa\Dati\Catasto\Anagrafe.txt
+#TARES#D:\Tolfa\Dati\Catasto\tares.txt
+#TERRITORIO#D:\Tolfa\Dati\Territorio\
+#QUNIONE#D:\Tolfa\Dati\Catasto\QU\L192_8754QU.CXF
+#DIRCXF#D:\Tolfa\Dati\Catasto\CXF\
+#FABBRICATIDATI#D:\Tolfa\Dati\Catasto\fabbricati.txt
+#TERRENIDATI#D:\Tolfa\Dati\Catasto\terreni.txt
+#TERRENIPROPRIETARI#D:\Tolfa\Dati\Catasto\SoggettiTerreni.txt
+#TERRENIPOSSESSI#D:\Tolfa\Dati\Catasto\PossessiTerreni.txt
+#FABBRICATIPROPRIETARI#D:\Tolfa\Dati\Catasto\SoggettiFabbricati.txt
+#FABBRICATIPOSSESSI#D:\Tolfa\Dati\Catasto\PossessiFabbricati.txt
+#CONCESSIONIDISEGNI#D:\Tolfa\Dati\Concessioni\DisegniV\
+#CONCESSIONISOGGETTI#D:\Tolfa\Dati\Concessioni\SoggettiConcessioni.txt
+#ENDDIRECTORY
+#TITOLO
+C= L192
+T= Tolfa
+#ENDTITOLO
+#LABEL
+x= 42
+y= 5
+s= 10
+T= Concessioni
+#ENDLABEL
+#BUTTON
+x= 33
+y= 25
+h= 20
+w= 80
+T= Concessioni
+M= #V3##D:\Tolfa\Dati\DisegniV\ComuneTerreni.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 50
+h= 20
+w= 110
+T= Territorio Comune
+M= #V1##D:\Tolfa\Dati\DisegniV\ComuneTerreni.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 75
+h= 20
+w= 110
+T= Territorio Agraria
+M= #V1##D:\Tolfa\Dati\DisegniV\AgrariaTerreni.macmap
+#ENDBUTTON
+#LABEL
+x= 48
+y= 100
+s= 8
+T= da Catasto
+#ENDLABEL
+#BUTTON
+x= 18
+y= 120
+h= 20
+w= 110
+T= Agraria Tolfa
+M= #V1##D:\Tolfa\Dati\DisegniV\Agraria_Tolfa.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 145
+h= 20
+w= 110
+T= Agraria Allumiere
+M= #V1##D:\Tolfa\Dati\DisegniV\Agraria_Allumiere.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 170
+h= 20
+w= 110
+T= Agraria Manziana
+M= #V1##D:\Tolfa\Dati\DisegniV\Agraria_Manziana.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 195
+h= 20
+w= 110
+T= Comune Tolfa
+M= #V1##D:\Tolfa\Dati\DisegniV\Catasto_Tolfa.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 220
+h= 20
+w= 110
+T= Popolazione Tolfa
+M= #V1##D:\Tolfa\Dati\DisegniV\Popolazione_Tolfa.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 245
+h= 20
+w= 110
+T= SGIA
+M= #V1##D:\Tolfa\Dati\DisegniV\Catasto_Sgia.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 270
+h= 20
+w= 110
+T= Enti vari
+M= #V1##D:\Tolfa\Dati\DisegniV\Catasto_enti.macmap
+#ENDBUTTON
+#BUTTON
+x= 18
+y= 295
+h= 20
+w= 110
+T= altro
+M= #V1##D:\Tolfa\Dati\DisegniV\Catasto_altro.macmap
+#ENDBUTTON

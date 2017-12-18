@@ -1,0 +1,332 @@
+Descrizione,Totale,Varie,Seminativo,Sem arboreo,Inc. prod.,Pascolo,Pascolo cesp.,Pascolo arb,Bosco ced.,orto irriguo,orto,cast frutto,frutteto,vigneto,cava,urbano,fab rurale,altro
+Acciaroli Domenico,9759,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9759
+Acciaroli eredi fu Giuseppina,5278,5278,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Acciaroli Pierina,6296,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6296
+Agostini Alessandro,5434,0,0,0,0,0,5434,0,0,0,0,0,0,0,0,0,0,0
+Aleandri Egidio,10818,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10818
+Aleandri Maria,4020,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4020
+Allena Michele,1492,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1492
+Alocchi Emilio,21495,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21495
+Amabili Siro,4314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4314
+Angelini Antonio Lorenzo,26761,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26761
+Angelini eredi fu Raffaele,2960,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2960
+Angelini Luigi,6327,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6327
+Antonelli Giulio,3335,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3335
+Apriletti Alessandro,4810,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4810
+Associazione Volo ULM Monti della Tolfa,24211,0,24211,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Az Morani Wind,644,0,644,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Azienda Agricola Comunale Santa Severa Nord,69407,68717,690,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Azienda Agricola Di Domenico Enrico,83817,61615,0,0,0,0,3450,13255,0,0,0,0,0,5497,0,0,0,0
+Azienda Agricola Di Domenico Romeo,113593,65065,0,0,0,0,0,13255,0,0,0,0,0,34433,0,0,840,0
+Azienda Agricola Guerra Silva,280000,280000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Azienda Agricola mercuri sabatini Luciani,1567165,474358,1092209,0,0,0,0,0,0,0,0,0,0,0,0,0,0,598
+Azienda agricola Morani Guendalina,12115575,4498066,930714,0,0,2430105,19970,343430,3892390,0,0,0,0,0,0,0,80,820
+Azienda Agricola Spinelli Gianfranco,661767,466901,77666,0,0,0,0,0,4580,0,0,0,0,112620,0,0,0,0
+Azienda Agricola-zootecnica comunale a conduzione diretta,5709283,3170872,680534,0,0,587665,0,161310,1094880,0,0,0,0,0,0,0,480,13542
+Barchesi Aristodemo,6800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6800
+Bargiacchi Attilio,7494,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7494
+Bargiacchi Egidio e Ciancarini Giuseppe,7942,7942,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bartoli eredi fu Ranieri,6510,0,5840,0,0,0,150,0,0,520,0,0,0,0,0,0,0,0
+Bartoli Francesa,400,0,0,0,0,0,0,400,0,0,0,0,0,0,0,0,0,0
+Bassetti Antonio Bassetti Ida,3230,0,2260,0,0,0,0,0,0,970,0,0,0,0,0,0,0,0
+Battilocchio Antonio,60106,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60106
+Bentivoglio eredi fu Giulio,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280
+Bentivoglio F.lli fu Giuseppe,3840,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3840
+Bianchi Ardario e Armenio,3400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3400
+Bianchi Giuseppe Fu Mariano,22714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22714
+Bocci Giuseppe,5940,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5940
+Borghesi eredi fu Domenico,3540,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3540
+Borghesi eredi fu Francesco,9990,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9990
+Borghini Dina,1566,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1566
+Borghini Eredi Fu Giulio,4175,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4175
+Borghini Giovanna Ved Morra,3585,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3585
+Borghini Luigi,4601,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4601
+Bottacci Giuseppe,13027,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13027
+Bottacci Sesto,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150
+Brandi Carlo,13351,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13351
+Bruni Eliseo,3200,0,3200,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Carai Pietro,983,0,983,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CaricaTerra Angela Franciosi Lina,2080,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2080
+Caricaterra Enrico e Mercuri Quinto,7394,0,0,0,0,0,7394,0,0,0,0,0,0,0,0,0,0,0
+Carminelli Alessandro,5900,0,0,0,0,0,5900,0,0,0,0,0,0,0,0,0,0,0
+Carolini eredi fu Bruno,1061,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1061
+Carolini Giuseppe di Cesare,2229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2229
+Catella f.lli fu Candido,11532,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11532
+Ceccaglia Antonio,4260,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4260
+Ceccarelli Archimede,3611,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3611
+Cedrani Enzo,2023,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2023
+Chiappini Nunzio,1450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1450
+Chiavoni Antonio,3180,0,0,0,0,0,0,0,0,0,0,3180,0,0,0,0,0,0
+Chiavoni Augusta,1519,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1519
+Chiavori Agnese,12260,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12260
+Ciambella Angelo,11764,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11764
+Ciambella Domenico,8433,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8433
+Ciambella eredi fu giuseppe,8459,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8459
+Ciambella Giulio,6408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6408
+Ciambella Paolo,280530,235310,43610,0,0,0,0,0,1610,0,0,0,0,0,0,0,0,0
+Ciancarini Angelo fu Tommaso,1666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1666
+Ciancarini eredi fu Salvatore,2242,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2242
+Ciancarini eredi fu Tommaso,6959,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6959
+Cola Alessandro,3567,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3567
+Compagnucci PierLuigi fu Sante,3644,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3644
+Compagnucci Vincenzo Primo,22100,11740,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10360
+Comune di Tolfa,310375,0,130712,0,40470,0,1040,0,310,0,0,0,0,0,0,0,0,137843
+Conduzione diretta Severa Nord,167216,0,167086,0,0,0,0,0,0,0,130,0,0,0,0,0,0,0
+Conti Nunzio,19327,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19327
+Coop Etruria,286490,0,286490,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Coop Tur Monti delle Tolfa,9000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9000
+Coop. agricola Don G Minzoni,5048723,1311880,1010213,0,0,78560,0,2617580,30490,0,0,0,0,0,0,0,0,0
+Cooperativa la Foglia,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Copponi eredi fu Enrico,8201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8201
+Copponi Maria in Vecchioni,4395,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4395
+Costantini Eredi fu Giulio,2330,0,0,0,0,0,0,0,0,0,0,2330,0,0,0,0,0,0
+costruzione mattatoio comprensoriale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cucco Domenico,54565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,54565
+Cucco eredi fu Pietro,3425,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3425
+Curia,4704,0,4704,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Angelis Felice ed Eugenio,2310,0,0,0,0,0,0,0,0,0,0,2310,0,0,0,0,0,0
+De Felici eredi fu Giulio,1350,0,1350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Felici Eredi fu Rinaldo,10918,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10918
+De Felici Italo Arturo,3310,0,3310,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+De Felici Teodoro,5440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5440
+De Piccoli Giovanni,3187,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3187,0,0
+Della chiesa Augusto e Giulia,3505,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3505
+Della Chiesa Giulio (Caleotti),4038,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4038
+Di Bartolomei GianPiero,28522,0,28522,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Di cesare Giacomo,17513,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17513
+Di Domenico Enrico,113274,95183,0,0,0,0,0,0,0,0,0,0,0,18091,0,0,0,0
+Di Domenico Romeo,51638,25819,0,0,0,0,0,0,0,0,0,0,0,25819,0,0,0,0
+Di Sabatini Pietro e Morbidelli Bianca,1819,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1819
+Di Silvestri Antonio,19436,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19436
+Di Silvestri Fabio,2420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2420
+DiGiandomenico Altera,256,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,256
+Donati F.lli Fu Enrico,7120,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7120
+Donnini Antonio fu Gaetano,37121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37121
+Donnini Antonio fu Luigi,1705,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1705
+Donnini Umberto,9224,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9224
+Esposito Arduino,13835,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13835
+Ex Discarica rsu,9760,0,9760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ex Miniera Caolino,56543,20090,24730,0,0,0,0,0,0,0,0,0,0,0,11493,0,230,0
+Fattori Fabio,344248,131800,209888,0,0,0,0,0,740,0,0,0,0,1820,0,0,0,0
+Finocchi eredi fu Angelo,4367,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4367
+Focheschi Antonio,212,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,212
+Fondat (ex Sanitari Ginori),18620,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18620
+Fracassa Alina,3734,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3734
+Fracassa Domenico,4404,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4404
+Fracassa Giulio,56703,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,56703
+Fracassa Pina,37474,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37474
+Fracassa Rinaldo,66097,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66097
+Franchi Augusto di Felice,25066,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25066
+Franchi Franco Egidio,7340,0,7340,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Franchi Giulio Sante,6153,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6153
+Franchini Alessandro,3238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3238
+Franconi Franco,87030,4790,75690,0,0,0,0,6030,0,0,0,0,0,0,0,0,520,0
+Fronti Rinaldo,3540,0,0,0,870,2670,0,0,0,0,0,0,0,0,0,0,0,0
+Fulgenzi Giovanni,290,0,290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Galeotti Giuseppe di Gallileo,27325,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27325
+Galeotti Teresa,1730,0,1730,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Galimberti Bruno,14767,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14767
+Galletti eredi fu luigi,1780,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1780
+Gari Ennio di Orlando,6965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6965
+Gari eredi fu Renzo,6206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6206
+Gari eredi fu Settimio,3980,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3980
+Gari Eredi fu Siro,4760,0,2780,0,0,0,0,0,0,0,0,1980,0,0,0,0,0,0
+Gaucci eredi fu Giulio,2926,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2926
+Gentili Antonio,1900,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1900
+Gentili Arimateo,10358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10358
+Giannini Giovanbattista,7260,0,7260,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Giganti Alessandro,3361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3361
+Giganti Angelo fu GiovanBattista,6960,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6960
+Giganti Armida,21755,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21755
+Gigli enrico fu Anacleto,3168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3168
+Gigli eredi fu Natale,32228,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32228
+Gigli f.lli fu Eugenio,198386,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,198386
+Gigli Giovanbattista fu Eugenio,8130,0,7360,0,0,770,0,0,0,0,0,0,0,0,0,0,0,0
+Gigli Matilde,2948,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2948
+Girelli Natale,1760,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1760
+Gobbi Augusta,2306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2306
+Gobbi Bruna,920,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,920
+Gobbi Cesare,2302,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2302
+Gobbi eredi fu Francesco,3390,0,3390,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gobbi Giulio,14660,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14660
+Grassi eredi fu Giorgio,20220,0,0,0,0,15790,0,0,0,0,0,0,0,0,0,0,0,4430
+Guiducci Luigi,70532,0,0,0,0,0,7420,0,0,0,0,0,0,0,0,0,0,63112
+Guiducci Luigi e Basilio,55723,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55723
+Iacomelli Domenico,9640,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9640
+Iacomelli Domenico di Luigi,24054,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24054
+Iacomelli Otello,1800,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1800
+Isidori Bruno,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Italcementi Civitavecchia,1570,0,0,0,0,0,0,1570,0,0,0,0,0,0,0,0,0,0
+La Rosa Adalberto,2246,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2246
+La Rosa Giacomino,1806,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1806
+Lucarelli Vittorio,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134
+Lucarini Vincenzo,235850,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,235850
+Maffei Egidio e Luigi,4820,0,4210,0,0,610,0,0,0,0,0,0,0,0,0,0,0,0
+Maga eredi fu Augusto,2221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2221
+Maga F.lli fu Angelo (Boggi Augusta),38221,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38221
+Maga Felice,5010,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5010
+Maga Salvatore,2640,0,100,0,0,0,1930,0,0,610,0,0,0,0,0,0,0,0
+Maga Salvatore e Giuseppe,3734,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3734
+Maga Sergio,19398,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19398
+Marazzi eredi fu Tito,268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,268
+Marcelli Lucia in Cola,2490,0,2170,0,0,0,0,320,0,0,0,0,0,0,0,0,0,0
+Marchi Giuseppe Egidio,1312,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1312
+Marini Antonio,3570,0,0,3570,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Marini Sira e Gina,4136,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4136
+Marra Giulio Fu Sebastiano,350,0,350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Massaroni Filippo,19030,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19030
+Massimi Egidia in Paparcurio,2770,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2770
+Mattei Lucia in Copponi,23542,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23542
+Maurelli Felicetta in Urbani,1500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1500
+Mercuri Antonio fu Lorenzo,2108,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2108
+Mercuri eredi fu Domenico,30982,0,0,0,0,0,0,0,0,4250,0,1620,0,0,0,0,0,25112
+Mercuri Luigi fu Giuseppe,18204,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18204
+Mercuri Mario fu Giuseppe,26520,0,26520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mercuri Renato,6980,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6980
+Mignanti Anita in Santoni,2830,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2830
+Mignanti eredi fu Antonio,14710,0,3290,0,0,11420,0,0,0,0,0,0,0,0,0,0,0,0
+Mignanti Karmen Oria,18787,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18787
+Minandri Alessandro,21990,0,0,1390,410,20190,0,0,0,0,0,0,0,0,0,0,0,0
+Mocci eredi fu Rinaldo,29443,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29443
+Mocci Francesco fu Eugenio,12653,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12653
+Mocci Francesco fu Giuseppe,31924,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31924
+Moggi Angelo Fu Luigi,7367,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7367
+Moggi eredi fu Enrico,38612,0,22140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16472
+Moggi Rodolfo fu Giuseppe,110987,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110987
+Moggi Sante fu Giovan Battista,170,0,0,0,170,0,0,0,0,0,0,0,0,0,0,0,0,0
+Monaldi Alfredo,5142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5142
+Moretti Antonio fu Domenico,13015,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13015
+Moretti Armida,3115,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3115
+Moretti eredi fu Augusto,43794,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43794
+Moretti Eredi Fu Giuseppe,10360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10360
+Moretti Olmare e Romano,8600,0,8600,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moretti Pasquale,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Moretti Primo,30864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30864
+Moretti Quinto,8940,0,0,0,0,8940,0,0,0,0,0,0,0,0,0,0,0,0
+Morra eredi fu Antonio,3447,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3447
+Morra eredi fu Giuseppe,17704,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17704
+Morra Eredi Fu Luciano Alessandro,39813,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39813
+Morra eredi fu Mariano,1370,0,1370,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Morra Francesca,19410,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19410
+Morra Giulio fu Sebastiano,2087,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2087
+Morra Ida fu Sebastiano,14260,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14260
+Morra Ida ved Carducci,5383,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5383
+Morra Nazzareno,55653,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55653
+Morra Pietro,3340,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3340
+Muneroni eredi fu Giuseppe,5432,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5432
+Muneroni Fernando e Zefferina,5610,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5610
+Natali Secondo fu Demetrio,27891,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27891
+Onori Maria ved Muneroni,4770,0,0,0,0,4770,0,0,0,0,0,0,0,0,0,0,0,0
+Onori Ugo,4305,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4305
+Orchi Alfredo Giovanni,1480,0,1480,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orchi Eredi Fu Alessandro,42316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42316
+Orchi Orlando,5890,0,5890,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ortolani Alfredo,216901,0,216901,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paglioni Eredi Fu Egidio,3590,0,3590,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paglioni Tersiglio,1731,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1731
+Paparcurio Antonio Salvatore,1263,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1263
+Paradisi eredi fu Angelo,8060,0,0,0,0,0,5230,2830,0,0,0,0,0,0,0,0,0,0
+Paradisi Remo,1580,0,1580,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Parrigiani eredi fu Pietro,8728,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8728
+Pascucci Flora fu Nicola,7579,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7579
+Pasquini Antonio fu Francesco,3336,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3336
+Pasquini Nino,13851,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13851
+Pasquini Primo,334393,334393,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Peretti Mario,5697,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5697
+Perfetti Damasco,13226,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13226
+Perfetti Francesco,15800,0,0,0,0,0,15800,0,0,0,0,0,0,0,0,0,0,0
+Perla Luigi,4678,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4678
+Perla Paride,10047,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10047
+Petrocchi Amerigo,2959,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2959
+Petrocchi eredi fu Egidio,440,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,440
+Pieragostini eredi fu innocenzo,82024,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82024
+Pieragostini Luigi Augusto,433,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,433
+Pieragostini Mario,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,80
+Pierantozzi  eredi fu Eliseo,7140,0,0,0,0,0,0,0,7140,0,0,0,0,0,0,0,0,0
+Piergiovanni Arniere,12745,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12745
+Pierini Alfredo,10169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10169
+Pierini fernando fu Franceso,1490,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1490
+Pierini Giuseppa di Cesare Corrado,6381,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6381
+Pierini Guido,7712,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7712
+Pierini Pietro,21650,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21650
+Pierini Vinicio,9728,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9728
+Piermarocchi eredi fu Antonio,10640,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10640
+Piermarocchi Giuseppe Antonio,19045,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19045
+Piermarocci Umberto,2322,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2322
+Pierrettori Angelo,3450,0,3450,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pinardi Albina di Pietro,11637,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11637
+Pirini eredi fu Simona,2550,0,0,0,0,0,0,0,2550,0,0,0,0,0,0,0,0,0
+Piroli Giuseppe e Pierantozzi Equilio,83247,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83247
+Pirri Egidio,8180,0,2240,0,0,4170,0,1770,0,0,0,0,0,0,0,0,0,0
+Pirri Eugenio,5696,0,670,0,0,0,0,0,3200,400,0,0,0,0,0,0,0,1426
+Polidori Pietro,350,0,350,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Prioreschi eredi fu Orlando e Topetti eredi fu Giovanbattista,8180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8180
+Ranieri Antonio,10801,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10801
+Re Gina,1750,0,1750,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Regione Lazio Demanio regionale ramo bonifica,17478,0,17478,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ricotta eredi fu Egidio e Orlandini eredi fu Angela,10238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10238
+Riversi Ferruccio,22489,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22489
+Rossi Gino e Ettore,299243,0,299195,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0
+Ruina Averardo,2078,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2078
+Ruina Ottorino,29643,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29643
+Santecchi Uliana,7630,0,7350,0,0,0,0,0,0,0,0,0,0,280,0,0,0,0
+Santoni eredi fu Angelo,7320,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7320
+Santoni Raffaele,7424,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7424
+Schinoppi Angelo,23832,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23832
+Scirocco Filomena presso Annibali Cesare,2720,0,2720,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Seiquattrini Roberto,2460,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2460
+Serisi Iole in Moggi,5290,0,5290,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sfascia Giuliano,745,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,745
+Sfascia Lina in Galimberti,6340,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6340
+Sgricia Leonello,16822,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16822
+Sgricia Teresa ved Battilocchio,11555,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11555
+Smacchia Andrea Fu Camillo,5600,0,3330,0,0,0,0,0,0,2270,0,0,0,0,0,0,0,0
+Smacchia Augusto,23124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23124
+Smacchia Maddalena,2910,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2910
+Soldi Concetta,11489,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11489
+Spargoli Luigi,39927,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39927
+Speroni Anita,1000,0,790,0,0,0,0,0,0,0,0,0,0,0,0,0,210,0
+Speroni Giacomo fu Dante,18351,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18351
+Stefanini Anita in Amabili,2600,0,0,0,0,0,0,0,0,0,0,2600,0,0,0,0,0,0
+Stefanini Antonio fu Alfonso,1244,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1244
+Stefanini Antonio fu Angelo,32009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32009
+Stefanini Augusto fu Alfonso,1722,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1722
+Stefanini Bernardo,138069,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,138069
+Stefanini eredi fu Paola,4464,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4464
+Stefanini Gennarino,14093,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14093
+Stefanini Giuseppe fu Alfonso,3516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3516
+Stefanini Pietro,26408,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26408
+Stefanini Raffaele,127690,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127690
+Stefanini Raffaella Ved Pulcini,29027,0,0,0,0,0,0,0,4160,0,0,0,0,0,0,0,0,24867
+Tagliani Alessandro,400,0,400,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tagliani Antonio,27168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27168
+Tasselli Eredi Fu Pietro,850,0,0,0,0,850,0,0,0,0,0,0,0,0,0,0,0,0
+Tasselli Francesca,5726,0,0,0,0,0,0,5690,0,0,0,0,0,0,0,0,36,0
+Tasselli Francesca in Amabili,640,0,0,0,0,640,0,0,0,0,0,0,0,0,0,0,0,0
+Tasselli Quinto,2734,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2734
+Tavarnelli Domenico,3738,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3738
+Terragoni Aurora fu Carlo,3590,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3590
+Testa Adolfo Armando Amerigo,9741,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9741
+Testa Tommaso fu Nazzareno,1101,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1101
+Tidei Angela Agnese Anna,27996,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27996
+Tirabassi eredi fu Amedeo,3640,0,3640,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tomassetti Domenico,3000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3000
+Tomassetti Sante,43786,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43786
+Topetti Franco,2300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2300
+Torroni Ferrero,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,500
+Travagliati Carlo,59302,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59302
+Urbani Archimede,21539,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21539
+Urbani Attilio,7130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7130
+Urbani Vincenzo,5864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5864
+Valentini Enrico,2528,0,2480,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0
+Vannicola Egidio,17952,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17952
+Vannicola Lorenzo,6650,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6650
+Vasta Angelo e Fausto,52368,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52368
+Vecchioni Lena,3341,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3341
+Vecchioni Silvano,6419,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6419
+Vergili Vergilio,10960,0,0,0,0,0,8370,0,2590,0,0,0,0,0,0,0,0,0
+Vergini Antonio,4752,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4752
+Villella Gennaro,355,0,355,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Zinna Giulio,29781,3520,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26261
+Zona per Insediamenti produttivi Artigianali,10262,0,7006,0,0,0,0,0,0,0,1344,0,0,0,0,0,0,1912
+,32354165

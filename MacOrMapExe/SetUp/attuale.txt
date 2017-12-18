@@ -1,0 +1,2 @@
+ConfigPanel1_Magliano.txt
+ConfigPanel2_Magliano.txt
